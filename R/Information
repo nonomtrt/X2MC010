@@ -6,3 +6,5 @@ In the documents "Project_2" and "Project_3", you will find the main section wit
 other text ("Project_3"). 
 In the documents "2lettre" and "4lettre", you will find the section on tokens of different sizes, including size 2 ("2lettre") 
 and size 4 tokens ("4lettre").
+
+In the document "utils", you will find the "extrait_encryption" function used in all the other R files.
